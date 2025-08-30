@@ -48,7 +48,7 @@ Atualmente focada em:
 ## 📬 Como me encontrar
 
 - 📧 **Email:** amanda_canto@live.com  
-- 💼 [LinkedIn] ([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/amanda-canto-7ba41721/)  
+- 💼 [LinkedIn] https://www.linkedin.com/in/amanda-canto-7ba41721/  
 - 📊 Em breve: Portfólio completo com projetos publicados aqui!
 
 ---
